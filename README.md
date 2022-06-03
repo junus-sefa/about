@@ -2,7 +2,7 @@
 
 
 **Currently**
-* Founder of <a target="_blank" href="https://diestus.com">Diestus.</a> Web Development & Graphic Design
+* Founder of <a target="_blank" href="https://diestus.com">Diestus.</a> Web Development & Graphic Design.
 * Studying "Computer Engineer - Bachelor" at Oslomet.
 * Produced and fully maintains websites for 7 different clients.
 * Owner of a self-owned project-website, with over 50,000 views per month.

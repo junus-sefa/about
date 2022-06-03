@@ -2,7 +2,7 @@
 
 
 **Currently**
-* Owner of Diestus.(https://diestus.com). Web Development & Graphic Design
+* Owner of <a href="https://diestus.com">Diestus.</a>. Web Development & Graphic Design
 
 **Tools & Languages**
 

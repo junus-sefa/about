@@ -24,13 +24,12 @@
 <img align="left" alt="HTML5" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/html_logo.png?raw=true" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/css_logo.png?raw=true" />
 <img align="left" alt="Java" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/java_logo.png?raw=true" />
-<img align="left" alt="SQL" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/database_logo.png?raw=true" />
-<img align="left" alt="Web components" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/web_components_logo.png?raw=true" />
+<img align="left" alt="SQL" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/mysql_logo.png?raw=true" />
 <img align="left" alt="Git" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/git_logo.png?raw=true" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/github_logo.png?raw=true" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/github_logo.jpeg?raw=true" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/vs_logo.png?raw=true" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/intellij-Idea_logo.png?raw=true" />
 <img align="left" alt="Wordpress" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/wordpress_logo.png?raw=true" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/woocommerce_logo.png?raw=true" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/intellij-Idea_logo.png?raw=true" />
 
 

@@ -1,4 +1,5 @@
-## Hi 👋, I'm Sefa
+
+<img align="left" alt="Junus Sefa - Banner" width="100%" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/GithubBanner.jpg?raw=true" />
 *I am a full time student at OsloMet Oslo, 3nd year at Bachelor in Computer Science. I have a good 👁 for Frontend Design, and 💙 to make beautiful websites.*
 
 **Located:** Oslo, Norway

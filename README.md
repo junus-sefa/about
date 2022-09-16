@@ -6,9 +6,14 @@
 * Studying "Computer Engineer - Bachelor" at Oslomet.
 * Produced and fully maintains websites for 7 different clients.
 * Owner of a self-owned project-website, with over 50,000 views per month.
-* <a href="https://www.linkedin.com/in/junus-sefa" target="_blank"> LinkedIn Profil</a>
+
 * Developer of: <a target="_blank" href="http://www.fraktberegning.no">Fraktberegning.no</a>, <a target="_blank" 
 href="http://www.voeckalkulatoren.no">Voeckalkulatoren.no</a> & <a target="_blank" href="http://www.spordinpakke.no">Spordinpakke.no</a>.<br>
+
+**Reach Me**
+* <a href="https://www.linkedin.com/in/junus-sefa" target="_blank">LinkedIn</a>
+* <a href="mailto:info@diestus.com">Email</a>
+
 
 **Tools & Languages**
 

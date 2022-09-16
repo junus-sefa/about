@@ -1,18 +1,25 @@
 ## Hi 👋, I'm Sefa
+*I am a full time student at OsloMet Oslo, 3nd year at Bachelor in Computer Science. I have a good 👁 for Frontend Design, and 💙 to make beautiful websites.*
+
+**Located:** Oslo, Norway
 
 
-**Currently**
-* Founder of <a target="_blank" href="https://diestus.com">Diestus.</a> Web Development & Graphic Design.
-* Studying "Computer Engineer - Bachelor" at Oslomet.
-* Produced and fully maintains websites for 7 different clients.
-* Owner of a self-owned project-website, with over 50,000 views per month.
+**Resume**
+-Founder of <a target="_blank" href="https://diestus.com">Diestus.</a> Web Development & Graphic Design.
+-Studying "Computer Engineer - Bachelor" at Oslomet.
+-Produced and fully maintains websites for 7 different clients.
+-Owner of a self-owned project-website, with over 50,000 views per month.
+<br>
 
-* Developer of: <a target="_blank" href="http://www.fraktberegning.no">Fraktberegning.no</a>, <a target="_blank" 
-href="http://www.voeckalkulatoren.no">Voeckalkulatoren.no</a> & <a target="_blank" href="http://www.spordinpakke.no">Spordinpakke.no</a>.<br>
+**Selfmade Projects**
+<a target="_blank" href="http://www.fraktberegning.no">Frakt Beregning</a>
+<a target="_blank" 
+href="http://www.voeckalkulatoren.no">VOEC Kalkulatoren</a>
+<a target="_blank" href="http://www.spordinpakke.no">Spor Din Pakke</a>
+<a target="_blank" href="https://www.snuskalkulator.diestus.com">Snuskalkulatoren</a>
 
-**Reach Me**
-* <a href="https://www.linkedin.com/in/junus-sefa" target="_blank">LinkedIn</a>
-* <a href="mailto:info@diestus.com">Email</a>
+
+**Read more about me on <a align="left" href="https://www.linkedin.com/in/junus-sefa" target="_blank"><img alt="LinkedIn" width="18px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/linkedin_logo.png?raw=true" /></a> or  reach me on <a href="mailto:info@diestus.com"><img alt="Email" width="18px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/email_logo.png?raw=true" /></a>**
 
 
 **Tools & Languages**
@@ -26,7 +33,7 @@ href="http://www.voeckalkulatoren.no">Voeckalkulatoren.no</a> & <a target="_blan
 <img align="left" alt="Git" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/git_logo.png?raw=true" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/github_logo.png?raw=true" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/vs_logo.png?raw=true" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/wordpress_logo.png?raw=true" />
-
-
+<img align="left" alt="Wordpress" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/wordpress_logo.png?raw=true" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/woocommerce_logo.png?raw=true" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/intellij-Idea_logo.png?raw=true" />
 

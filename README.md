@@ -1,13 +1,10 @@
 ## Hi 👋, I'm Sefa
 
 <a href="https://github.com/junus-sefa/github-readme-stats">
-  <img align="center" style="height: 150px;" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=junus-sefa&layout=compact&theme=material-palenight" />
-</a>
-    <a href="https://github.com/junus-sefa/github-readme-stats">
   <img align="center" style="height: 150px;" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=junus-sefa&show_icons=true&include_all_commits=true&theme=material-palenight" />
 </a>
 
-
+<br>
 **Currently**
 * Founder of <a target="_blank" href="https://diestus.com">Diestus.</a> Web Development & Graphic Design.
 * Studying "Computer Engineer - Bachelor" at Oslomet.

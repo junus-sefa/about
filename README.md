@@ -5,10 +5,10 @@
 
 
 **Resume**
--Founder of <a target="_blank" href="https://diestus.com">Diestus.</a> Web Development & Graphic Design.
--Studying "Computer Engineer - Bachelor" at Oslomet.
--Produced and fully maintains websites for 7 different clients.
--Owner of a self-owned project-website, with over 50,000 views per month.
+- Founder of <a target="_blank" href="https://diestus.com">Diestus.</a> Web Development & Graphic Design.
+- Studying "Computer Engineer - Bachelor" at Oslomet.
+- Produced and fully maintains websites for 7 different clients.
+- Owner of a self-owned project-website, with over 50,000 views per month.
 <br>
 
 **Selfmade Projects**
@@ -33,7 +33,8 @@ href="http://www.voeckalkulatoren.no">VOEC Kalkulatoren</a>
 <img align="left" alt="Git" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/git_logo.png?raw=true" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/github_logo.png?raw=true" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/vs_logo.png?raw=true" />
-<img align="left" alt="Wordpress" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/wordpress_logo.png?raw=true" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/woocommerce_logo.png?raw=true" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/intellij-Idea_logo.png?raw=true" />
+<img align="left" alt="Wordpress" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/wordpress_logo.png?raw=true" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/woocommerce_logo.png?raw=true" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/intellij-Idea_logo.png?raw=true" />
+
 

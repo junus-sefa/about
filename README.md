@@ -1,27 +1,19 @@
+<div><img align="left" alt="Junus Sefa - Banner" width="100%" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/GithubBanner.jpg?raw=true" /><br></br>
+</div>
 
-<img align="left" alt="Junus Sefa - Banner" width="100%" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/GithubBanner.jpg?raw=true" />
+ 
+<br />
 
-<br>
-
-*I am a full time student at OsloMet Oslo, 3nd year at Bachelor in Computer Science. I have a good 👁 for Frontend Design, and 💙 to make beautiful websites.*
-
-**Located:** Oslo, Norway
+*"I have a good 👁 for Frontend Design, and 💙 to make beautiful websites."*
 
 
-**Resume**
+**About me**
+- Located in Oslo, Norway
 - Founder of <a target="_blank" href="https://diestus.com">Diestus.</a> Web Development & Graphic Design.
-- Studying "Computer Engineer - Bachelor" at Oslomet.
+- Full time student at OsloMet Oslo, 3nd year at Bachelor in Computer Science
 - Produced and fully maintains websites for 7 different clients.
 - Owner of a self-owned project-website, with over 50,000 views per month.
 <br>
-
-**Selfmade Projects**
-- <a target="_blank" href="http://www.fraktberegning.no">Frakt Beregning</a>
-- <a target="_blank" 
-href="http://www.voeckalkulatoren.no">VOEC Kalkulatoren</a>
-- <a target="_blank" href="http://www.spordinpakke.no">Spor Din Pakke</a>
-- <a target="_blank" href="https://www.snuskalkulator.diestus.com">Snuskalkulatoren</a>
-
 
 **Read more about me on <a align="left" href="https://www.linkedin.com/in/junus-sefa" target="_blank"><img alt="LinkedIn" width="18px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/linkedin_logo.png?raw=true" /></a> or  reach me on <a href="mailto:info@diestus.com"><img alt="Email" width="18px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/email_logo.png?raw=true" /></a>**
 

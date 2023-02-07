@@ -57,7 +57,7 @@ _"I have a good 👁 for Frontend Design, and 💙 to make beautiful websites."_
 
 <br></br>
 
-**Tools**
+**Web Development Tools**
 
 <a target="_blank" href="https://www.mysql.com/">
     <img align="left" alt="MySQL" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/mysql-logo.png?raw=true" />
@@ -101,7 +101,7 @@ _"I have a good 👁 for Frontend Design, and 💙 to make beautiful websites."_
 
 <br></br>
 
-**Design**
+**Design Tools**
 
 <a target="_blank" href="https://www.figma.com/">
     <img align="left" alt="Figma" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/figma-logo.png?raw=true" />

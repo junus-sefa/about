@@ -63,6 +63,10 @@ _"I have a good 👁 for Frontend Design, and 💙 to make beautiful websites."_
     <img align="left" alt="MySQL" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/mysql-logo.png?raw=true" />
 </a>
 
+<a target="_blank" href="https://wordpress.com/">
+    <img align="left" alt="Wordpress" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/wordpress_logo.png?raw=true" />
+</a>
+
 <a target="_blank" href="https://github.com/">
     <img align="left" alt="GitHub" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/github_logo.jpeg?raw=true" />
 </a>
@@ -89,10 +93,6 @@ _"I have a good 👁 for Frontend Design, and 💙 to make beautiful websites."_
 
 <a target="_blank" href="https://www.jetbrains.com/rider/">
     <img align="left" alt="Jetbrains Webstorm" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/webstorm-logo.png?raw=true" />
-</a>
-
-<a target="_blank" href="https://wordpress.com/">
-    <img align="left" alt="Wordpress" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/wordpress_logo.png?raw=true" />
 </a>
 
 <a target="_blank" href="https://woocommerce.com/">

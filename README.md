@@ -98,3 +98,23 @@ _"I have a good 👁 for Frontend Design, and 💙 to make beautiful websites."_
 <a target="_blank" href="https://woocommerce.com/">
     <img align="left" alt="WooCommerce" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/woocommerce_logo.png?raw=true" />
 </a>
+
+<br />
+
+**Design**
+
+<a target="_blank" href="https://www.figma.com/">
+    <img align="left" alt="Figma" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/figma-logo.png?raw=true" />
+</a>
+
+<a target="_blank" href="https://affinity.serif.com/photo/">
+    <img align="left" alt="Affinity - Photo" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/affinity-photo-logo.svg?raw=true" />
+</a>
+
+<a target="_blank" href="https://affinity.serif.com/designer/">
+    <img align="left" alt="Affinity - Designer" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/affinity-designer-logo.svg?raw=true" />
+</a>
+
+<a target="_blank" href="https://affinity.serif.com/publisher/">
+    <img align="left" alt="Affinity - Publisher" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/affinity-publisher-logo.svg?raw=true" />
+</a>

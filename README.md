@@ -91,7 +91,7 @@ _"I have a good 👁 for Frontend Design, and 💙 to make beautiful websites."_
     <img align="left" alt="Jetbrains Rider" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/jetbrains-rider-logo.png?raw=true" />
 </a>
 
-<a target="_blank" href="https://www.jetbrains.com/rider/">
+<a target="_blank" href="https://www.jetbrains.com/webstorm/">
     <img align="left" alt="Jetbrains Webstorm" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/webstorm-logo.png?raw=true" />
 </a>
 

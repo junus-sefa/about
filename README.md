@@ -15,8 +15,6 @@ _"I have a good 👁 for Frontend Design, and 💙 to make beautiful websites."_
 - <a href="https://codecanyon.net/user/diestus/portfolio" target="_blank">Envato</a>
   <br>
 
-**Read more about me on <a align="left" href="https://www.linkedin.com/in/junus-sefa" target="_blank"><img alt="LinkedIn" width="18px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/linkedin_logo.png?raw=true" /></a> or reach me on <a href="mailto:info@diestus.com"><img alt="Email" width="18px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/email_logo.png?raw=true" /></a>**
-
 **Languages**
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/HTML5">
@@ -118,3 +116,7 @@ _"I have a good 👁 for Frontend Design, and 💙 to make beautiful websites."_
 <a target="_blank" href="https://affinity.serif.com/publisher/">
     <img align="left" alt="Affinity - Publisher" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/affinity-publisher-logo.png?raw=true" />
 </a>
+
+<br></br>
+
+**Read more about me on <a align="left" href="https://www.linkedin.com/in/junus-sefa" target="_blank"><img alt="LinkedIn" width="18px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/linkedin_logo.png?raw=true" /></a> or reach me on <a href="mailto:info@diestus.com"><img alt="Email" width="18px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/email_logo.png?raw=true" /></a>**

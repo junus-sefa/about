@@ -21,15 +21,21 @@
 
 **Tools & Languages**
 
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/js_logo.png?raw=true" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/html_logo.png?raw=true" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/css_logo.png?raw=true" />
+<img align="left" alt="React" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/react-logo.svg?raw=true" />
+<img align="left" alt="Typescript" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/typescript-logo.svg?raw=true" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/js_logo.png?raw=true" />
 <img align="left" alt="Java" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/java_logo.png?raw=true" />
-<img align="left" alt="SQL" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/mysql_logo.png?raw=true" />
+<img align="left" alt="C#" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/cSharp-logo.png?raw=true" />
+<img align="left" alt="C++" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/cplusplus-logo.png?raw=true" />
+<img align="left" alt="SQL" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/mysql-logo.png?raw=true" />
 <img align="left" alt="Git" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/git_logo.png?raw=true" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/github_logo.jpeg?raw=true" />
+<img align="left" alt="Docker" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/docker-logo.webp?raw=true" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/vs_logo.png?raw=true" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/intellij-Idea_logo.png?raw=true" />
+<img align="left" alt="Jetbrains IntelliJ IDEA" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/intellij-Idea_logo.png?raw=true" />
+<img align="left" alt="Jetbrains Rider" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/ijetbrains-rider-logo.png?raw=true" />
 <img align="left" alt="Wordpress" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/wordpress_logo.png?raw=true" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/woocommerce_logo.png?raw=true" />
 

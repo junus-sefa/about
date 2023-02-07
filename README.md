@@ -55,8 +55,7 @@ _"I have a good 👁 for Frontend Design, and 💙 to make beautiful websites."_
     <img align="left" alt="C++" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/cplusplus-logo.png?raw=true" />
 </a>
 
-
-<br />
+<br></br>
 
 **Tools**
 

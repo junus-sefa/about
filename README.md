@@ -30,8 +30,8 @@
 <img align="left" alt="C#" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/cSharp-logo.png?raw=true" />
 <img align="left" alt="C++" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/cplusplus-logo.png?raw=true" />
 <img align="left" alt="SQL" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/mysql-logo.png?raw=true" />
-<img align="left" alt="Git" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/git_logo.png?raw=true" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/github_logo.jpeg?raw=true" />
+<img align="left" alt="Git" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/git_logo.png?raw=true" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/docker-logo.webp?raw=true" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/vs_logo.png?raw=true" />
 <img align="left" alt="Jetbrains IntelliJ IDEA" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/intellij-Idea_logo.png?raw=true" />

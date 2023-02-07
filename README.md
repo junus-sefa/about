@@ -116,5 +116,5 @@ _"I have a good 👁 for Frontend Design, and 💙 to make beautiful websites."_
 </a>
 
 <a target="_blank" href="https://affinity.serif.com/publisher/">
-    <img align="left" alt="Affinity - Publisher" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/affinity-publisher-logo.svg?raw=true" />
+    <img align="left" alt="Affinity - Publisher" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/affinity-publisher-logo.png?raw=true" />
 </a>

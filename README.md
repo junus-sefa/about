@@ -1,6 +1,12 @@
 <div><img align="left" alt="Junus Sefa - Banner" width="100%" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/GithubBanner.jpg?raw=true" /><br></br>
 </div>
 
+<style>
+.markdown-body img[align=left]{
+    padding-right:10px;
+}
+</style>
+
 <br />
 
 _"I have a good 👁 for Frontend Design, and 💙 to make beautiful websites."_

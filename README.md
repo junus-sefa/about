@@ -1,12 +1,6 @@
 <div><img align="left" alt="Junus Sefa - Banner" width="100%" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/GithubBanner.jpg?raw=true" /><br></br>
 </div>
 
-<style>
-.markdown-body img[align=left]{
-    padding-right:10px;
-}
-</style>
-
 <br />
 
 _"I have a good 👁 for Frontend Design, and 💙 to make beautiful websites."_
@@ -23,7 +17,7 @@ _"I have a good 👁 for Frontend Design, and 💙 to make beautiful websites."_
 
 **Read more about me on <a align="left" href="https://www.linkedin.com/in/junus-sefa" target="_blank"><img alt="LinkedIn" width="18px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/linkedin_logo.png?raw=true" /></a> or reach me on <a href="mailto:info@diestus.com"><img alt="Email" width="18px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/email_logo.png?raw=true" /></a>**
 
-**Tools & Languages**
+**Languages**
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/HTML5">
     <img align="left" alt="HTML5" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/html_logo.png?raw=true" />
@@ -50,7 +44,7 @@ _"I have a good 👁 for Frontend Design, and 💙 to make beautiful websites."_
 </a>
 
 <a target="_blank" href="https://www.php.net/">
-    <img align="left" alt="PHP" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/php-logo.png?raw=true" />
+    <img align="left" alt="PHP" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/php-logo.webp?raw=true" />
 </a>
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
@@ -60,6 +54,9 @@ _"I have a good 👁 for Frontend Design, and 💙 to make beautiful websites."_
 <a target="_blank" href="https://en.wikipedia.org/wiki/C%2B%2B">
     <img align="left" alt="C++" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/cplusplus-logo.png?raw=true" />
 </a>
+
+
+**Tools**
 
 <a target="_blank" href="https://www.mysql.com/">
     <img align="left" alt="MySQL" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/mysql-logo.png?raw=true" />

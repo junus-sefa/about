@@ -28,6 +28,10 @@ _"I have a good 👁 for Frontend Design, and 💙 to make beautiful websites."_
     <img align="left" alt="React" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/react-logo.svg?raw=true" />
 </a>
 
+<a target="_blank" href="https://vuejs.org/">
+    <img align="left" alt="Vue" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/Vue.js.svg?raw=true" />
+</a>
+
 <a target="_blank" href="https://www.typescriptlang.org/">
     <img align="left" alt="Typescript" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/typescript-logo.png?raw=true" />
 </a>
@@ -42,6 +46,10 @@ _"I have a good 👁 for Frontend Design, and 💙 to make beautiful websites."_
 
 <a target="_blank" href="https://www.php.net/">
     <img align="left" alt="PHP" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/php-logo.webp?raw=true" />
+</a>
+
+<a target="_blank" href="https://dotnet.microsoft.com/en-us/">
+    <img align="left" alt=".NET" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/Microsoft_.NET_logo.svg?raw=true" />
 </a>
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">

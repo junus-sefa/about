@@ -80,6 +80,10 @@ _"I have a good 👁 for Frontend Design, and 💙 to make beautiful websites."_
     <img align="left" alt="Git" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/git_logo.png?raw=true" />
 </a>
 
+<a target="_blank" href="https://www.postman.com/">
+    <img align="left" alt="Postman" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/postman-icon.svg?raw=true" />
+</a>
+
 <a target="_blank" href="https://www.docker.com/">
     <img align="left" alt="Docker" width="26px" src="https://github.com/junus-sefa/junus-sefa/blob/main/assets/docker-logo.webp?raw=true" />
 </a>

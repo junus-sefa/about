@@ -9,7 +9,6 @@ _"I have a good 👁 for Frontend Design, and 💙 to make beautiful websites."_
 
 - Located in Oslo, Norway
 - Founder of <a target="_blank" href="https://diestus.com">Diestus.</a> Web Development & Graphic Design.
-- Full time student at OsloMet Oslo, 3nd year at Bachelor in Computer Science
 - Produced and fully maintains websites for 7 different clients.
 - Owner of a self-owned project-website, with over 50,000 views per month.
 - <a href="https://codecanyon.net/user/diestus/portfolio" target="_blank">Envato</a>
